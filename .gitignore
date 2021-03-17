@@ -144,4 +144,4 @@ Thumbs.db
 */.ipynb_checkpoints/*
 
 # folder containing large csv files.
-**/chest_xray
+**/data
